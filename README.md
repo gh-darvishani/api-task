@@ -1,12 +1,21 @@
-installtion 
+#installition 
+
 git clone from this repository
+
 cd folder api-task
+
 composer update
-create tables 
+
+#create tables 
+
 php artisan migrate 
-add fake data
+
+#add fake data
+
 php artisan db:seed 
-run the project
+
+#run the project
+
 php artisan serve 
 
 
