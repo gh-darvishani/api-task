@@ -34,3 +34,8 @@ api
     
     get product list :
     https://task-api-docs.netlify.com/#list_all_products
+
+
+data base schema
+
+![alt text](https://raw.githubusercontent.com/gh-darvishani/api-task/master/db-esign.jpg)
